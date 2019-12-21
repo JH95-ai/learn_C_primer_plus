@@ -1,0 +1,4 @@
+﻿  structur.cpp
+e:\vs_code\vs_c++_code\learning_c++_charpter4\structur\structur.cpp(15): warning C4305: “初始化”: 从“double”到“float”截断
+e:\vs_code\vs_c++_code\learning_c++_charpter4\structur\structur.cpp(20): warning C4305: “初始化”: 从“double”到“float”截断
+  structur.vcxproj -> E:\vs_code\vs_c++_code\learning_C++_charpter4\Debug\structur.exe

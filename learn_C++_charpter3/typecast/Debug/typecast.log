@@ -1,0 +1,3 @@
+﻿  typecast.cpp
+e:\vs_code\vs_c++_code\learn_c++_charpter3\typecast\typecast.cpp(5): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  typecast.vcxproj -> E:\vs_code\vs_c++_code\learn_C++_charpter3\Debug\typecast.exe

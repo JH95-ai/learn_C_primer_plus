@@ -1,0 +1,4 @@
+﻿  assign.cpp
+e:\vs_code\vs_c++_code\learn_c++_charpter3\assign\assign.cpp(6): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\vs_code\vs_c++_code\learn_c++_charpter3\assign\assign.cpp(7): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  assign.vcxproj -> E:\vs_code\vs_c++_code\learn_C++_charpter3\Debug\assign.exe

@@ -1,0 +1,3 @@
+﻿  waiting.cpp
+e:\vs_code\vs_c++_code\learning_c++_charpter5\5_14waiting\waiting.cpp(8): warning C4244: “初始化”: 从“float”转换到“clock_t”，可能丢失数据
+  5_14waiting.vcxproj -> E:\vs_code\vs_c++_code\learning_C++_charpter5\Debug\5_14waiting.exe
