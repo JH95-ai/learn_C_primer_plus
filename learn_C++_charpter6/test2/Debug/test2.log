@@ -1,0 +1,7 @@
+﻿  test2.cpp
+e:\vs_code\vs_c++_code\learn_c++_charpter6\test2\test2.cpp(15): warning C4244: “+=”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+  test2.vcxproj -> E:\vs_code\vs_c++_code\learn_C++_charpter6\Debug\test2.exe
